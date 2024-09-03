@@ -51,7 +51,5 @@ Open phpmyadmin
 Create Database cars
 Import database cars.sql (available inside zip package)
 
-
-
 For Admin Panel
 Login Details for admin : admin/admin
